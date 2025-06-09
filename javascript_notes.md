@@ -17,16 +17,16 @@
 🔗 [Chat Summary](https://chatgpt.com/share/675bef89-a534-8012-8b9a-0e5395f56843)
 
 📁 Repos:
-- [Introduction to JavaScript](https://github.dev/ProgrammingHero1/introduction-to-JavaScript)  
+- [Introduction to JavaScript](https://github.com/ProgrammingHero1/introduction-to-JavaScript)  
 📁 Task:
-- [Intro to JS Tasks](https://github.dev/ProgrammingHero1/intro-to-js-tasks)
+- [Intro to JS Tasks](https://github.com/ProgrammingHero1/intro-to-js-tasks)
 
 ---
 
 ## 2. JavaScript Conditionals (Mo-18)
 
-📁 Repo: [JS Conditionals](https://github.dev/ProgrammingHero1/js-conditionals)  
-📁 Task: [JS Conditionals Task](https://github.dev/ProgrammingHero1/JS-conditionals-tasks)
+📁 Repo: [JS Conditionals](https://github.com/ProgrammingHero1/js-conditionals)  
+📁 Task: [JS Conditionals Task](https://github.com/ProgrammingHero1/JS-conditionals-tasks)
 
 ---
 
@@ -45,19 +45,19 @@
 🔗 [Chat Summary](https://chatgpt.com/share/684661ee-5e88-8012-a7d2-69e8f702c813)
 
 📁 Repos: 
-- [JS Array](https://github.dev/ProgrammingHero1/js-array)
-- [JS Array More](https://github.dev/ProgrammingHero1/js-array-more)  
+- [JS Array](https://github.com/ProgrammingHero1/js-array)
+- [JS Array More](https://github.com/ProgrammingHero1/js-array-more)  
 📁 Tasks:
-- [JS Array Tasks](https://github.dev/ProgrammingHero1/js-array-tasks)
-- [JS Array More Tasks](https://github.dev/ProgrammingHero1/js-array-more)
+- [JS Array Tasks](https://github.com/ProgrammingHero1/js-array-tasks)
+- [JS Array More Tasks](https://github.com/ProgrammingHero1/js-array-more)
 
 ---
 
 ## 4. JavaScript Loops (Mo-19)
 
-📁 Repo: [JS Loop](https://github.dev/ProgrammingHero1/js-loop)  
-📁 Task: [JS Loop Task](https://github.dev/ProgrammingHero1/js-loop-tasks)  
-📁 Task: [Array Looping Task](https://github.dev/ProgrammingHero1/array-looping-tasks)
+📁 Repo: [JS Loop](https://github.com/ProgrammingHero1/js-loop)  
+📁 Task: [JS Loop Task](https://github.com/ProgrammingHero1/js-loop-tasks)  
+📁 Task: [Array Looping Task](https://github.com/ProgrammingHero1/array-looping-tasks)
 
 ---
 
@@ -77,14 +77,14 @@
 
 🔗 [Chat Summary](https://chatgpt.com/share/675bfeb0-ea4c-8012-bf12-7b24a0475e86)
 
-📁 Repo: [JS String Object](https://github.dev/ProgrammingHero1/js-string-object)  
+📁 Repo: [JS String Object](https://github.com/ProgrammingHero1/js-string-object)  
 📁 Tasks:
-- [JS Object Task](https://github.dev/ProgrammingHero1/js-object-tasks)
-- [JS String Task](https://github.dev/ProgrammingHero1/js-string-tasks)
+- [JS Object Task](https://github.com/ProgrammingHero1/js-object-tasks)
+- [JS String Task](https://github.com/ProgrammingHero1/js-string-tasks)
 
 ---
 
 ## 6. JavaScript Functions
 
-📁 Repo: [JS Function](https://github.dev/ProgrammingHero1/js-function)  
+📁 Repo: [JS Function](https://github.com/ProgrammingHero1/js-function)  
 📁 Task: [JS Function Practice Task](https://github.com/ProgrammingHero1/js-function-practice-tasks)
