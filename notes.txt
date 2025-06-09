@@ -15,7 +15,6 @@
 1. Inro Js :            https://github.dev/ProgrammingHero1/intro-to-js-tasks
 2. JS Conditionals :    https://github.dev/ProgrammingHero1/JS-conditionals-tasks
 3. JS Array Task :      https://github.dev/ProgrammingHero1/js-array-tasks
-                        https://github.dev/ProgrammingHero1/js-array-more
 4. JS Loop Task  :      https://github.dev/ProgrammingHero1/js-loop-tasks
 5. JS String Object :   https://github.dev/ProgrammingHero1/js-object-tasks
 6. JS String Task :     https://github.dev/ProgrammingHero1/js-string-tasks

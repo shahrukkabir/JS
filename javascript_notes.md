@@ -49,7 +49,6 @@
 - [JS Array More](https://github.com/ProgrammingHero1/js-array-more)  
 📁 Tasks:
 - [JS Array Tasks](https://github.com/ProgrammingHero1/js-array-tasks)
-- [JS Array More Tasks](https://github.com/ProgrammingHero1/js-array-more)
 
 ---
 
