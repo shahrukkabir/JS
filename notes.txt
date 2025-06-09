@@ -1,0 +1,41 @@
+1. Inroduction to JavaScript : https://github.dev/ProgrammingHero1/introduction-to-JavaScript  (Mo-17)
+2. JS Conditionals :           https://github.dev/ProgrammingHero1/js-conditionals (Mo-18)
+3. JS Array :                  https://github.dev/ProgrammingHero1/js-array (18.5)
+                               https://github.dev/ProgrammingHero1/js-array-more (20.5)
+4. JS Loop :                   https://github.dev/ProgrammingHero1/js-loop (19) 
+5. JS String Object :          https://github.dev/ProgrammingHero1/js-string-object (20)
+6. JS Function :               https://github.dev/ProgrammingHero1/js-function
+
+
+
+
+
+
+// Task 
+1. Inro Js :            https://github.dev/ProgrammingHero1/intro-to-js-tasks
+2. JS Conditionals :    https://github.dev/ProgrammingHero1/JS-conditionals-tasks
+3. JS Array Task :      https://github.dev/ProgrammingHero1/js-array-tasks
+                        https://github.dev/ProgrammingHero1/js-array-more
+4. JS Loop Task  :      https://github.dev/ProgrammingHero1/js-loop-tasks
+5. JS String Object :   https://github.dev/ProgrammingHero1/js-object-tasks
+6. JS String Task :     https://github.dev/ProgrammingHero1/js-string-tasks
+7. Array Looping Task:  https://github.dev/ProgrammingHero1/array-looping-tasks
+8. JS Function Task :   https://github.com/ProgrammingHero1/js-function-practice-tasks
+
+ 
+
+Intro Javascript (M-4, Mo : 17 & 18) : 
+Topic that cover in chatlink : typeof, parseInt(), parseFloat(), toFixed(), NaN, isNaN(), Infinity, Data Types, Comparison Operator
+https://chatgpt.com/share/675bef89-a534-8012-8b9a-0e5395f56843
+
+
+Basic Array Methods (M-4, Mo : 18.5 ) :
+Topic that cover in chatlink : Adding/Removing Elements : push(), pop(), shift() and unshift() | indexOf(), includes(), concat(), Array.isArray(), slice(), join(), spice()
+https://chatgpt.com/share/684661ee-5e88-8012-a7d2-69e8f702c813
+
+String Methods and Objects ( M-4 , Mo : 20 ):
+Topic that cover in chatlink : String Immutabiliy and array mutability, toUpperCase (), toLowerCase (), trim (), slice(), split(), join(), concat(), includes()  
+reverse a String, Objects and Properties, Accessing and Modifying Object Properties, Nested Objects, Adding and Deleting Objects, Keys and Values of an Objects, Object Creation Method
+https://chatgpt.com/share/675bfeb0-ea4c-8012-bf12-7b24a0475e86
+
+
