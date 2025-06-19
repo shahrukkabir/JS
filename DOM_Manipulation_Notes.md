@@ -8,8 +8,8 @@ DOM (Document Object Model) is a programming interface that represents the struc
 
 ## 📁 Repositories & Resources
 
-- 🔗 **Tour of DOM**: [https://github.dev/ProgrammingHero1/tour-of-dom](https://github.dev/ProgrammingHero1/tour-of-dom)
-- 🔗 **DOM Events**: [https://github.dev/ProgrammingHero1/dom_events](https://github.dev/ProgrammingHero1/dom_events)
+- 🔗 **Tour of DOM**: [https://github.com/ProgrammingHero1/tour-of-dom](https://github.com/ProgrammingHero1/tour-of-dom)
+- 🔗 **DOM Events**: [https://github.com/ProgrammingHero1/dom_events](https://github.com/ProgrammingHero1/dom_events)
 - 🧠 **Chat Summary**: [DOM Manipulation Chat Summary](https://chatgpt.com/c/68510741-644c-8012-843e-85b293a58688)
 
 ---
@@ -104,12 +104,12 @@ parent.addEventListener('click', function(e) {
 
 ## ✅ Practical Projects (from Repos)
 
-### From [Tour of DOM](https://github.dev/ProgrammingHero1/tour-of-dom):
+### From [Tour of DOM](https://github.com/ProgrammingHero1/tour-of-dom):
 - Button click to change text/color
 - Loop through and style multiple cards
 - Create dynamic list items
 
-### From [DOM Events](https://github.dev/ProgrammingHero1/dom_events):
+### From [DOM Events](https://github.com/ProgrammingHero1/dom_events):
 - Comment box with post functionality
 - Delete confirmation (like GitHub)
 - Input change detection
